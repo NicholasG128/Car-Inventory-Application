@@ -1,0 +1,14 @@
+[
+  {
+    "CustomField": "Prof. Nagel\u0027s future car",
+    "Name": "Dodge Charger",
+    "Description": "Good Car",
+    "DateAcquired": "2024-12-01T20:55:09.8450711-05:00"
+  },
+  {
+    "CustomField": "",
+    "Name": "Astro Van",
+    "Description": "Used for Space Travel",
+    "DateAcquired": "2024-12-09T18:39:56.5933037-05:00"
+  }
+]

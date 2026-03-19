@@ -1,0 +1,36 @@
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\bin\Debug\net8.0-windows\Car Inventory.exe
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\bin\Debug\net8.0-windows\Car Inventory.deps.json
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\bin\Debug\net8.0-windows\Car Inventory.runtimeconfig.json
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\bin\Debug\net8.0-windows\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\bin\Debug\net8.0-windows\Car Inventory.pdb
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Collection_Application.frmCollectionApp.resources
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Collection_Application.frmCollectionItem.resources
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Collection_Application.Properties.Resources.resources
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.csproj.GenerateResource.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.AssemblyInfoInputs.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.AssemblyInfo.cs
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\refint\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.pdb
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\Car Inventory.genruntimeconfig.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\CIS400\Final Project\Final Project - Graham\Collection Application\obj\Debug\net8.0-windows\ref\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\bin\Debug\net8.0-windows\Car Inventory.exe
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\bin\Debug\net8.0-windows\Car Inventory.deps.json
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\bin\Debug\net8.0-windows\Car Inventory.runtimeconfig.json
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\bin\Debug\net8.0-windows\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\bin\Debug\net8.0-windows\Car Inventory.pdb
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Collection_Application.frmCollectionApp.resources
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Collection_Application.frmCollectionItem.resources
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Collection_Application.Properties.Resources.resources
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.csproj.GenerateResource.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.AssemblyInfoInputs.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.AssemblyInfo.cs
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\refint\Car Inventory.dll
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.pdb
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\Car Inventory.genruntimeconfig.cache
+C:\Users\Compu\OneDrive\Documents\BuffStateInfo\Usable Projects\Graham - .NET - Car Inventory Application\Collection Application\obj\Debug\net8.0-windows\ref\Car Inventory.dll
